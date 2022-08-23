@@ -1,8 +1,10 @@
 <h1 align="center">Personal school project I created to aid in Daystar Orientation May 2022.</h1>
 
-Case problem: During oreination to my cumpus, DAYSTAY UNIVERSITY KENAY, their is usually so much information to be communicated to the new parents and students.
+Case problem: During oreination to my cumpus, DAYSTAR UNI KENYA, their is usually so much information to be communicated to the new parents and students.
 
 Solution: I sort to create an internet based application that servers as a centralised source of communication for both the new students and parents and also the orientation team.
+
+link: https://daystarorientation.herokuapp.com/
 
 **_Featuers integrated_**
 
